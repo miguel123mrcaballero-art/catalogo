@@ -42,8 +42,8 @@ window.CATALOGO = {
   ],
   productos: [
     {"id": "p001", "nombre": "Base E011", "marca": "Elaya", "categoria": "bases", "precio": 24100, "tonos": [], "fotos": ["p001.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p002", "nombre": "Base líquida matte", "marca": "Lula", "categoria": "bases", "precio": 24700, "tonos": [], "fotos": [], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p003", "nombre": "Base mate", "marca": "Hi Zis", "categoria": "bases", "precio": 19500, "tonos": [], "fotos": [], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p002", "nombre": "Base líquida matte", "marca": "Lula", "categoria": "bases", "precio": 24700, "tonos": [], "fotos": ["p002.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p003", "nombre": "Base mate", "marca": "Hi Zis", "categoria": "bases", "precio": 19500, "tonos": [], "fotos": ["p003.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p004", "nombre": "Base Bonita", "marca": "Ani-K", "categoria": "bases", "precio": 42900, "tonos": ["Tono 1", "Tono 2", "Tono 3", "Tono 4", "Tono 5"], "fotos": [], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p005", "nombre": "Base matte", "marca": "Engol", "categoria": "bases", "precio": 21500, "tonos": [], "fotos": [], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p006", "nombre": "Base BB cream", "marca": "MYK", "categoria": "bases", "precio": 11300, "tonos": [], "fotos": [], "agotado": false, "oculto": false, "descripcion": ""},
