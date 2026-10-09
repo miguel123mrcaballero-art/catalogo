@@ -78,7 +78,7 @@ window.CATALOGO = {
     {"id": "p035", "nombre": "Rubor compacto", "marca": "Lula", "categoria": "rubores", "precio": 22000, "tonos": [], "fotos": ["p035.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p036", "nombre": "Rubor compacto", "marca": "Ani-K", "categoria": "rubores", "precio": 23500, "tonos": [], "fotos": ["p036.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p037", "nombre": "Rubor nacarado compacto", "marca": "Atenea", "categoria": "rubores", "precio": 30000, "tonos": [], "fotos": ["p037.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p038", "nombre": "Rubor matte Daily Muse", "marca": "", "categoria": "rubores", "precio": 35000, "tonos": [], "fotos": ["p038.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p038", "nombre": "Rubor matte Daily Mous", "marca": "OG", "categoria": "rubores", "precio": 38000, "tonos": [], "fotos": ["p038.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p039", "nombre": "Rubor compacto Luminicent", "marca": "Samy", "categoria": "rubores", "precio": 24000, "tonos": [], "fotos": ["p039.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p040", "nombre": "Rubor dúo", "marca": "Sagui", "categoria": "rubores", "precio": 24000, "tonos": [], "fotos": ["p040.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p041", "nombre": "Rubor dúo Allure crema y compacto", "marca": "Atenea", "categoria": "rubores", "precio": 50000, "tonos": [], "fotos": ["p041.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
