@@ -20,7 +20,7 @@
    ========================================================================== */
 window.CATALOGO = {
   tienda: {
-    nombre: "Catálogo de Maquillaje",
+    nombre: "dreamy makeup ",
     frase: "Elige tus productos y tonos, arma tu pedido y envíalo por WhatsApp.",
     whatsapp: "573004341644",
     notaPedido: "El costo de envío y el medio de pago se confirman por WhatsApp."
