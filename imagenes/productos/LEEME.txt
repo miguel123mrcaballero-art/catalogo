@@ -1,0 +1,8 @@
+Pon aquí las fotos de los productos.
+
+Nómbralas con el código del producto, por ejemplo:
+    p004-1.jpg   (foto principal de la Base Bonita Ani-K)
+    p004-2.jpg   (segunda foto)
+
+Luego escribe esos nombres en el campo "fotos" del producto (en admin.html o en datos/catalogo.js).
+Recomendado: fotos cuadradas, de unos 800 x 800 píxeles y menos de 200 KB cada una (formato .jpg o .webp).
