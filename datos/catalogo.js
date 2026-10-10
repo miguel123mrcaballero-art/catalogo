@@ -50,7 +50,7 @@ window.CATALOGO = {
     {"id": "p007", "nombre": "Base Stay Matte", "marca": "OG", "categoria": "bases", "precio": 42000, "tonos": [], "fotos": ["p007.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p008", "nombre": "Base matte", "marca": "Dolce Bella", "categoria": "bases", "precio": 38000, "tonos": [], "fotos": ["p008.jpeg", "p008-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p009", "nombre": "Base líquida 1st Scene", "marca": "Atenea", "categoria": "bases", "precio": 52000, "tonos": [], "fotos": ["p009.jpeg","p009-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p010", "nombre": "Base Aqua", "marca": "OG", "categoria": "bases", "precio": 38500, "tonos": [], "fotos": ["p010.jpeg","p010-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p010", "nombre": "Base Aqua", "marca": "OG", "categoria": "bases", "precio": 38500, "tonos": ["Tono 2", "Tono 3", "Tono 4", "Tono 4.5", "Tono 5","Tono 6"], "fotos": ["p010.jpeg","p010-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p011", "nombre": "Tinta luminosa", "marca": "Dolce Bella", "categoria": "bases", "precio": 37000, "tonos": [], "fotos": ["p011.jpeg", "p011-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p012", "nombre": "Corrector", "marca": "Hi Zis", "categoria": "correctores", "precio": 18000, "tonos": [], "fotos": ["p012.jpeg", "p012-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p013", "nombre": "Corrector", "marca": "Elaya", "categoria": "correctores", "precio": 22000, "tonos": [], "fotos": ["p013.jpeg", "p013-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
