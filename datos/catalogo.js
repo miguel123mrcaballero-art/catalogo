@@ -93,7 +93,7 @@ window.CATALOGO = {
     {"id": "p050", "nombre": "Polvo suelto translúcido", "marca": "Montoc", "categoria": "polvos", "precio": 35000, "tonos": [], "fotos": ["p050.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p051", "nombre": "Polvo suelto translúcido", "marca": "Elaya", "categoria": "polvos", "precio": 22000, "tonos": [], "fotos": ["p051.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p052", "nombre": "Polvo suelto", "marca": "Samy", "categoria": "polvos", "precio": 30000, "tonos": ["Rosado", "Loose", "Peach"], "fotos": ["p052.jpg", "p052-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p053", "nombre": "Polvo suelto", "marca": "Elf", "categoria": "polvos", "precio": 58000, "tonos": ["Rosa", "Light", "Medium"], "fotos": ["p053.jpg", "p053-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p053", "nombre": "Polvo suelto", "marca": "Elf", "categoria": "polvos", "precio": 58000, "tonos": ["Rosa", "Light", "Medium"], "fotos": ["p053.jpeg", "p053-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p054", "nombre": "Polvo suelto Soft Powder", "marca": "Montoc", "categoria": "polvos", "precio": 35000, "tonos": [], "fotos": ["p054.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p055", "nombre": "Polvo suelto matte", "marca": "Bloomshell", "categoria": "polvos", "precio": 37500, "tonos": [], "fotos": ["p055.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p056", "nombre": "Polvo suelto", "marca": "Raquel", "categoria": "polvos", "precio": 26000, "tonos": ["Rosado", "Banana"], "fotos": ["p056.jpeg", "p056-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
