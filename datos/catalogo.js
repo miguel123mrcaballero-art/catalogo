@@ -65,7 +65,7 @@ window.CATALOGO = {
     {"id": "p022", "nombre": "Bronzer en barra Coconut", "marca": "Atenea", "categoria": "contornos", "precio": 38000, "tonos": [], "fotos": ["p022.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p023", "nombre": "Contorno en barra", "marca": "Sagui", "categoria": "contornos", "precio": 22000, "tonos": [], "fotos": ["p023.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p024", "nombre": "Contorno en barra", "marca": "Alma Beauty", "categoria": "contornos", "precio": 25800, "tonos": [], "fotos": ["p024.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p025", "nombre": "Contorno en barra Extra Creamy", "marca": "Engol", "categoria": "contornos", "precio": 20000, "tonos": [], "fotos": ["p025.jpeg"- "p025-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p025", "nombre": "Contorno en barra Extra Creamy", "marca": "Engol", "categoria": "contornos", "precio": 20000, "tonos": [], "fotos": ["p025.jpeg", "p025-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p026", "nombre": "Rubor líquido", "marca": "Sagui", "categoria": "rubores", "precio": 21000, "tonos": [], "fotos": ["p026.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p027", "nombre": "Rubor líquido", "marca": "Ani-K", "categoria": "rubores", "precio": 28500, "tonos": [], "fotos": ["p027.jpeg", "p027-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p028", "nombre": "Rubor en crema", "marca": "Elaya", "categoria": "rubores", "precio": 22000, "tonos": [], "fotos": ["p028.jpeg", "p028-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
