@@ -41,7 +41,7 @@ window.CATALOGO = {
     {"id": "shimmer", "nombre": "Shimmer y aguas"}
   ],
   productos: [
-    {"id": "p001", "nombre": "Base E011", "marca": "Elaya", "categoria": "bases", "precio": 26000, "tonos": [], "fotos": ["p001.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p001", "nombre": "Base E011", "marca": "Elaya", "categoria": "bases", "precio": 26000, "tonos": [], "fotos": ["p001.jpeg", "p001-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p002", "nombre": "Base líquida matte", "marca": "Lula", "categoria": "bases", "precio": 28000, "tonos": ["Tono 01", "Tono 02","Tono 03", "Tono 04", "Tono 05", "Tono 06"], "fotos": ["p002.png", "p002-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p003", "nombre": "Base mate", "marca": "Hi Zis", "categoria": "bases", "precio": 25000, "tonos": ["Porcelain", "Light", "Vanilla", "Almond", "Cappuccino","Cinnamon" ], "fotos": ["p003.jpg","p003-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p004", "nombre": "Base Bonita", "marca": "Ani-K", "categoria": "bases", "precio": 42900, "tonos": ["Tono 1"], "fotos": ["p004.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
@@ -54,7 +54,7 @@ window.CATALOGO = {
     {"id": "p011", "nombre": "Tinta luminosa", "marca": "Dolce Bella", "categoria": "bases", "precio": 37000, "tonos": [], "fotos": ["p011.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p012", "nombre": "Corrector", "marca": "Hi Zis", "categoria": "correctores", "precio": 18000, "tonos": [], "fotos": ["p012.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p013", "nombre": "Corrector", "marca": "Elaya", "categoria": "correctores", "precio": 22000, "tonos": [], "fotos": ["p013.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p014", "nombre": "Corrector", "marca": "Bloomshell", "categoria": "correctores", "precio": 24000, "tonos": [], "fotos": ["p014.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p014", "nombre": "Corrector", "marca": "Bloomshell", "categoria": "correctores", "precio": 24000, "tonos": [], "fotos": ["p014.jpeg","P014-1.jfif"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p015", "nombre": "Corrector líquido", "marca": "Dolce Bella", "categoria": "correctores", "precio": 20000, "tonos": [], "fotos": ["p015.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p016", "nombre": "Corrector líquido", "marca": "Lula", "categoria": "correctores", "precio": 22000, "tonos": [], "fotos": ["p016.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p017", "nombre": "Corrector líquido", "marca": "Engol", "categoria": "correctores", "precio": 15000, "tonos": [], "fotos": ["p017.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
@@ -71,7 +71,7 @@ window.CATALOGO = {
     {"id": "p028", "nombre": "Rubor en crema", "marca": "Elaya", "categoria": "rubores", "precio": 22000, "tonos": [], "fotos": ["p028.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p029", "nombre": "Rubor en barra Cranberry Juice Sublime", "marca": "Atenea", "categoria": "rubores", "precio": 40000, "tonos": [], "fotos": ["p029.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p030", "nombre": "Rubor en barra Cherry Blossom", "marca": "Bloomshell", "categoria": "rubores", "precio": 28000, "tonos": [], "fotos": ["p030.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
-    {"id": "p031", "nombre": "Rubor stick glow", "marca": "OG", "categoria": "rubores", "precio": 27100, "tonos": [], "fotos": ["p031.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p031", "nombre": "Rubor stick glow", "marca": "OG", "categoria": "rubores", "precio": 27100, "tonos": [], "fotos": ["p031.jpg", "p031-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p032", "nombre": "Rubor cremoso", "marca": "Sagui", "categoria": "rubores", "precio": 19500, "tonos": [], "fotos": ["p032.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p033", "nombre": "Rubor compacto mate", "marca": "G-Z", "categoria": "rubores", "precio": 18000, "tonos": [], "fotos": ["p033.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p034", "nombre": "Rubor compacto mineralizado", "marca": "", "categoria": "rubores", "precio": 20000, "tonos": [], "fotos": ["p034.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
