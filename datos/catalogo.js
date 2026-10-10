@@ -1,5 +1,5 @@
 /* ==========================================================================
-   DATOS DEL CATÁLOGO  -  este es el archivo que editas
+   DATOS DEL CATÁLOGO   -  este es el archivo que editas
    --------------------------------------------------------------------------
    Cada producto es UNA línea. Campos:
      id           código único (no lo cambies; se usa para nombrar las fotos)
