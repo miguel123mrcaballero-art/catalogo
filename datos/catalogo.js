@@ -41,7 +41,7 @@ window.CATALOGO = {
     {"id": "shimmer", "nombre": "Shimmer y aguas"}
   ],
   productos: [
-    {"id": "p001", "nombre": "Base E011", "marca": "Elaya", "categoria": "bases", "precio": 26000, "tonos": [], "fotos": ["p001.jpeg", "p001-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
+    {"id": "p001", "nombre": "Base E011", "marca": "Elaya", "categoria": "bases", "precio": 26000, "tonos": ["Arena","Durazno","Caramelo","Avella","Cocoa","Capuchino"], "fotos": ["p001.jpeg", "p001-1.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p002", "nombre": "Base líquida matte", "marca": "Lula", "categoria": "bases", "precio": 28000, "tonos": ["Tono 01", "Tono 02","Tono 03", "Tono 04", "Tono 05", "Tono 06"], "fotos": ["p002.png", "p002-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p003", "nombre": "Base mate", "marca": "Hi Zis", "categoria": "bases", "precio": 25000, "tonos": ["Porcelain", "Light", "Vanilla", "Almond", "Cappuccino","Cinnamon" ], "fotos": ["p003.jpg","p003-1.jpg"], "agotado": false, "oculto": false, "descripcion": ""},
     {"id": "p004", "nombre": "Base Bonita", "marca": "Ani-K", "categoria": "bases", "precio": 42900, "tonos": ["Tono 1"], "fotos": ["p004.jpeg"], "agotado": false, "oculto": false, "descripcion": ""},
